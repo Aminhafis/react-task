@@ -1,0 +1,16 @@
+.mainClass{
+    background-color: white;
+    margin: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.card{
+    margin: 20px;
+    padding: 20px;
+    width: 30%;
+    height: 100px;
+}
+.card img{
+    width: 380px;
+    height: 200px;
+}
